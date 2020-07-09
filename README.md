@@ -13,10 +13,6 @@ I'm Jaime, a young developer focused on Flutter and native iOS and Android.
      - https://twitter.com/JamesBlasco
      - https://www.linkedin.com/in/jaimeblascoandres/
 
-</br>
-</br>
-</br>
-
 
 <!--
 **jamesblasco/jamesblasco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
