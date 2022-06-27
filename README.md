@@ -11,7 +11,7 @@
 I'm **Jaime**, a young developer focused on Flutter and native iOS and Android.
 </br>
 </br>
-- 🦄 I work at @VGVentures, building very good Flutter apps
+- 🦄 I work at [@VGVentures](https://github.com/VGVentures/), building very good Flutter apps
 - 💙 Flutter Spain Community Oganizer. https://twitter.com/flutter_es
 - 🔭 A GSoC'20 student working on an intl project for [@dart-lang](https://github.com/dart-lang/)
 - 🩸 Previously at [base](https://get-base.com/), a health-tech startup located in New York.
