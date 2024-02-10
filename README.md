@@ -11,7 +11,7 @@
 I'm **Jaime**, a young developer focused on Flutter and native iOS and Android.
 </br>
 </br>
--  I work at [Hypervolt](https://hypervolt.co.uk/), building Flutter apps
+- ⚡ I work at [Hypervolt](https://hypervolt.co.uk/), building Flutter apps
 - 💙 Flutter Spain Community Oganizer. https://twitter.com/flutter_es
 - 🔭 A GSoC'20 student working on an intl project for [@dart-lang](https://github.com/dart-lang/)
 - 🩸 Previously at [base](https://get-base.com/), a health-tech startup located in New York.
