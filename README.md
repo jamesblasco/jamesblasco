@@ -1,11 +1,4 @@
 
-<a href="https://github.com/jamesblasco/modal_bottom_sheet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jamesblasco&repo=modal_bottom_sheet" />
-</a>
-<a href="https://github.com/jamesblasco/layout">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jamesblasco&repo=layout" />
-</a>
-
 ### Hi there 👋
 
 I'm **Jaime**, a young developer focused on Flutter and native iOS and Android.
